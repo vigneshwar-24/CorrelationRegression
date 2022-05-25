@@ -58,3 +58,4 @@ plt.show()
 <img width="326" alt="pqm" src="https://user-images.githubusercontent.com/77089276/170189433-9aec69ce-1d26-4420-8611-1b625afade5d.png">
 
 # Result:
+Thus the given data has been analysed and coeffificient of correlation has been found and regression line is plotted
